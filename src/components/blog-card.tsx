@@ -29,7 +29,7 @@ export const BlogCard = () => {
           href="/"
           className="px-0.5 rounded text-indigo-700 font-medium focus:ring-2 ring-indigo-100 inline-block"
         >
-          <span className="flex items-center gap-1.5">
+          <span className="flex items-center gap-2">
             <span>Read more</span>
             <i className="i-mdi-arrow-right" />
           </span>
