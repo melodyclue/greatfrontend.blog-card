@@ -31,7 +31,7 @@ export const BlogCard = () => {
         >
           <span className="flex items-center gap-2">
             <span>Read more</span>
-            <i className="i-mdi-arrow-right w-[13px] h-[13px]" />
+            <i className="i-mdi-arrow-right w-[16px] h-[16px]" />
           </span>
         </a>
       </div>
