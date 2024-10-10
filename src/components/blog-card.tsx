@@ -19,7 +19,7 @@ export const BlogCard = () => {
           <h2 className="text-lg font-semibold">
             Top 5 Living Room Inspirations
           </h2>
-          <p className="text-neutral-600 pt-3 pb-6">
+          <p className="text-neutral-600 pt-3 pb-6 font-medium">
             Curated vibrants colors for your living, make it pop & calm in the
             same time.
           </p>
@@ -30,7 +30,7 @@ export const BlogCard = () => {
           className="px-0.5 rounded text-indigo-700 font-medium focus:ring-2 ring-indigo-100 inline-block"
         >
           <span className="flex items-center gap-1.5">
-            <span>Read More</span>
+            <span>Read more</span>
             <i className="i-mdi-arrow-right" />
           </span>
         </a>
